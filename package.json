@@ -1,0 +1,27 @@
+{
+  "name": "mytask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-html-minifier-terser": "^7.1.0",
+    "gulp-optimize-images": "^1.1.5",
+    "gulp-terser": "^2.1.0",
+    "gulp.spritesmith": "^6.13.0"
+  },
+  "dependencies": {
+    "graceful-fs": "^4.2.11",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-html-src": "^1.0.0",
+    "gulp-replace": "^1.1.4",
+    "gulp-uglify": "^3.0.2"
+  }
+}
